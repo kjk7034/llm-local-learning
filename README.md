@@ -114,5 +114,5 @@ python llama.cpp/convert_hf_to_gguf.py llama-varco --outfile Llama-VARCO-8B-Inst
 
 ## 참고자료
 
-- [Quick Start with Docker](https://github.com/open-webui/open-webui?tab=readme-ov-file#quick-start-with-docker-)를 진행헀다.
+- [Quick Start with Docker](https://github.com/open-webui/open-webui?tab=readme-ov-file#quick-start-with-docker-)를 진행했다.
 - [Tutorial: How to convert HuggingFace model to GGUF format](https://github.com/ggerganov/llama.cpp/discussions/2948)
